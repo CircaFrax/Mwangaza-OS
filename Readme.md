@@ -10,7 +10,7 @@
 
 **OS léger offert.** Tourne sur vieux PC. Core parfait, Plymouth, Grub, installeur.
 
-### Télécharger
+### Télécharger (Bientôt)
 -> [Releases](https://github.com/CircaFrax/Mwangaza-OS/releases)
 
 ---
