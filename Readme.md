@@ -1,6 +1,6 @@
 En construction - on garde le cap
 
-![Bannière](https://github.com/CircaFrax/Mwangaza-OS/tree/main/assets/MwangazaOS_DVD_v1.png)
+![Bannière](https://github.com/CircaFrax/Mwangaza-OS/blob/main/assets/MwangazaOS_DVD_v1.png)
 
 # Mwangaza OS
 OS léger offert, tourne sur vieux PC.
